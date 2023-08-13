@@ -12,13 +12,6 @@
 
 - ⚡ Fun fact: I carry an extension cord with me at all times.  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
