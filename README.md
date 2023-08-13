@@ -1,5 +1,4 @@
 ## About Me:  
-<table><tr><td valign="top" width="100%">
 
 - ⚙️ I’m currently working on a closed source scheduling tool.  
   
