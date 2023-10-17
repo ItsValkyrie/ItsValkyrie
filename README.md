@@ -31,6 +31,7 @@
 ### Backend:
 <div>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>  
 </div>
 
 ### Tools:
