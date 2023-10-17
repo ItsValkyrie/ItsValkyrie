@@ -5,10 +5,10 @@
   
 ## About Me:  
 
-- ⚙️ I’m currently working on a closed source scheduling tool.  
+- ⚙️ I’m currently working on a classroom finder tool.  
   
 
-- 🌱 I’m currently learning Data Scraping.  
+- 🌱 I’m currently learning Data Scraping & React.JS.  
   
 
 - ❓ Feel free to ask me about anything Python related!  
